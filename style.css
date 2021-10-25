@@ -1,0 +1,60 @@
+  .h31
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size:18px;
+  
+  }
+  .title
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: grey;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+    padding:10px;
+
+  }
+  .title_2
+  {
+    font-size: 18px ;
+    background-color: grey;
+    color:white;
+  }
+  .object,.accuracy
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .object span{
+    white-space:pre-line;
+  }
+
+  .accuracy span{
+    white-space:pre-line;
+  }
+
+  .copy_right_footer{
+    position:fixed;
+    color:white;
+    background-color:grey;
+    line-height:3;
+    width:100%;
+    bottom:0;
+    text-align:center;
+
+
+  }
+
+  canvas{
+    border:5px dashed black;
+    border-radius:20px;
+    box-shadow:5px 5px 5px white;
+    margin-top:130px;
+    
+    
+
+  }
+ 
